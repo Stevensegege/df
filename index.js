@@ -20,7 +20,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Делаю ботов", "Помогаю людям", "fantom._._."];
+const statusMessages = [" Активно Слежу...", "bot delevoped by fantom._._."];
 
 
 let currentIndex = 0;
